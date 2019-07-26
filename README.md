@@ -1,5 +1,5 @@
 # React-todo-list
-Todo-list build on ReactJS
+Todo-list built on ReactJS
 
 To serve the app:
 
