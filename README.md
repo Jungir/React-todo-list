@@ -3,5 +3,5 @@ Todo-list build on ReactJS
 
 To serve the app:
 
-npm install -g serve
-serve -s build
+1) npm install -g serve
+2) serve -s build
